@@ -1,0 +1,22 @@
+body{
+    color: #001141;
+    padding: 0 20px 0 20px;
+}
+*{
+    margin: 0 auto;
+    max-width: 500px;
+    user-select: none;
+}
+.main-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    flex-direction: column;
+}
+.descargo{
+    font-size: 10px;
+}
+.terms-link{
+    text-decoration: underline;
+}
