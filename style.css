@@ -4,7 +4,9 @@ body{
 }
 *{
     margin: 0 auto;
-    max-width: 500px;
+}
+body{
+    max-width: 450px;
 }
 .main-container{
     display: flex;
