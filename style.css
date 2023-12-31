@@ -2,22 +2,10 @@ body{
     color: #001141;
     padding: 0 20px 0 20px;
 }
-*{
-    margin: 0 auto;
-}
-body{
-    max-width: 450px;
-}
 .main-container{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
-}
-.descargo{
-    font-size: 9px;
-}
-.terms-link{
-    text-decoration: underline;
 }
