@@ -5,7 +5,7 @@ export default function Home() {
   };
   return (
     <div className='w-full h-screen flex justify-center aling-center'>
-      <p class="font-bold text-5xl p-10 flex-center-custom">BlueTraders</p>
+      <p className="font-bold text-5xl p-10 flex-center-custom">BlueTraders</p>
     </div>
   )
 }
